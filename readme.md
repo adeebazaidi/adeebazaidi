@@ -1,101 +1,136 @@
 
 <h1 align="center">Adeeba Fatima Zaidi</h1>
 
+<h3 align="center">AI/ML • Full-Stack Development • Generative AI</h3>
+
 <p align="center">
-  <b>AI/ML Developer · Full-Stack Developer · GenAI Enthusiast</b>
+  Turning ideas into intelligent applications, one project at a time.
 </p>
 
 <p align="center">
-  Building intelligent applications through machine learning,
-  generative AI, and software engineering.
-</p>
-
-<p align="center">
-  <a href="https://adeebazaidiportfolio.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/adeebafatimazaidi">LinkedIn</a>
-  ·
-  <a href="https://github.com/adeebazaidi">GitHub</a>
+  <a href="https://adeebazaidiportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adeebafatimazaidi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/adeebazaidi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-### About Me
+### 💫 About Me
 
-I'm a Computer Science undergraduate specializing in AI & ML,
-interested in building useful AI-powered products and full-stack
-applications.
+Hey! I'm Adeeba, a Computer Science student specializing in AI & ML, passionate about building practical software and exploring how AI can make applications more useful.
 
-- Exploring Generative AI, LLMs, and Retrieval-Augmented Generation.
-- Building applications that combine AI with practical software solutions.
-- Working with machine learning, data analysis, and modern web technologies.
-- Learning through hands-on projects, experimentation, and collaboration.
+- 🧠 Exploring Machine Learning, Generative AI, LLMs, and RAG.
+- 💻 Building full-stack applications and AI-powered tools.
+- 🔍 Interested in solving real problems through experimentation and engineering.
+- 🌱 Always learning, building, debugging, and improving.
+- 🎯 Working toward opportunities in AI engineering and software development.
 
-### Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [EduPredict AI](https://github.com/adeebazaidi/EduPredict-AI) | Student performance prediction and analytics using machine learning. |
-| [AI Resume Builder](https://github.com/adeebazaidi/AI-Resume-Builder) | AI-assisted resume and cover letter generation with PDF export. |
-| [Campus Connect](https://github.com/adeebazaidi/Campus-Connect) | A campus-focused web application for connecting students. |
-| [DataQuery AI](https://github.com/adeebazaidi/DataQueryAI) | An ongoing exploration of AI-assisted document retrieval and natural-language data querying. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 EduPredict AI</h3>
+      <p>Student performance prediction and analytics using machine learning.</p>
+      <sub>Machine Learning · Data Analytics</sub>
+      <br/><br/>
+      <a href="https://github.com/adeebazaidi/EduPredict-AI">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>✨ AI Resume Builder</h3>
+      <p>AI-assisted resume and cover letter generation with PDF export.</p>
+      <sub>Python · Streamlit · Gemini AI</sub>
+      <br/><br/>
+      <a href="https://github.com/adeebazaidi/AI-Resume-Builder">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔎 DataQuery AI</h3>
+      <p>An evolving AI assistant concept for document retrieval and natural-language data queries.</p>
+      <sub>RAG · LLMs · SQL · Full-Stack</sub>
+      <br/><br/>
+      <a href="https://github.com/adeebazaidi/DataQueryAI">Explore Project →</a>
+    </td>
+    <td width="50%">
+      <h3>🛡️ DeceptionLens</h3>
+      <p>A collaborative digital-forensics project exploring forgery detection and document analysis.</p>
+      <sub>AI · Image Analysis · Digital Forensics</sub>
+      <br/><br/>
+      <a href="https://github.com/adeebazaidi/DeceptionLens">Explore Project →</a>
+    </td>
+  </tr>
+</table>
 
-### Tech Stack
+### 💻 Tech Stack
 
-**Languages**
+**🧩 Languages**
 
-`Python` `JavaScript` `C` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" alt="Python, JavaScript, C, HTML and CSS"/>
+</p>
 
-**Frontend**
+**🎨 Frontend Development**
 
-`React` `HTML5` `CSS3` `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React, Tailwind CSS and Vite"/>
+</p>
 
-**Backend & Databases**
+**⚙️ Backend & Databases**
 
-`Node.js` `Express.js` `REST APIs` `MongoDB` `MySQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
+</p>
 
-**AI & Data**
+**🤖 AI, Machine Learning & Data**
 
-`Machine Learning` `Scikit-learn` `Pandas` `NumPy`
-`Generative AI` `LLMs` `RAG`
+`Scikit-learn` `Pandas` `NumPy` `LLMs` `RAG` `Generative AI`
 
-**Tools**
+**🛠️ Tools & Platforms**
 
-`Git` `GitHub` `Postman` `Vercel`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" alt="Git, GitHub, Postman and Vercel"/>
+</p>
 
-### GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=adeebazaidi&show_icons=true&theme=transparent&hide_border=true"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=adeebazaidi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebazaidi&layout=compact&theme=transparent&hide_border=true"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebazaidi&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
     alt="Most-used languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=adeebazaidi&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=adeebazaidi&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
 </p>
 
-### Achievements
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=adeebazaidi&theme=flat&no-frame=true&margin-w=8&row=1&column=6"
-    alt="GitHub profile trophies"
+    src="https://github-profile-trophy.vercel.app/?username=adeebazaidi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="GitHub trophies"
   />
 </p>
 
 ---
 
 <p align="center">
-  <i>Learning continuously. Building thoughtfully. Improving every day.</i>
+  <i>Build with curiosity. Learn by doing. Keep improving.</i>
 </p>
